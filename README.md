@@ -1,2 +1,3 @@
-# jenkins-shared-library-demo
-Repo to test shared library concept
+# Jenkins Shared Library Demo
+
+Reusable pipeline steps and utilities for Jenkins pipelines.
